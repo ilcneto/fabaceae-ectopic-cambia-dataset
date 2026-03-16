@@ -1,0 +1,33 @@
+{
+  "title": "Plant Vascular Variants Database",
+  "upload_type": "dataset",
+  "description": "A curated database for research on plant vascular variants, including anatomical and biodiversity data for educational and scientific purposes.",
+  "creators": [
+    {
+      "name": "Cunha Neto, Israel L."
+    }
+  ],
+  "version": "1.0.0",
+  "keywords": [
+    "botany",
+    "plant anatomy",
+    "vascular biology",
+    "biodiversity",
+    "plants"
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "publication_date": "2026-02-19",
+  "communities": [
+    {
+      "identifier": "botany"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/ilcneto/plant-vascular-variants-database",
+      "scheme": "url"
+    }
+  ]
+}
