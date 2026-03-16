@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Plant Vascular Variants Database"
+message: "If you use this database, please cite it as below."
+authors:
+  - family-names: Cunha Neto
+    given-names: Israel L.
+repository-code: "https://github.com/ilcneto/plant-vascular-variants-database"
+type: dataset
+license: CC-BY-4.0
+keywords:
+  - botany
+  - plant anatomy
+  - vascular biology
+  - biodiversity
+  - plants
+version: 1.0.0
+doi: 10.5281/zenodo.18704992
+date-released: 2026-02-19
