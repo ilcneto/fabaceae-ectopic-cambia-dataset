@@ -1,10 +1,17 @@
 {
-  "title": "Plant Vascular Variants Database",
+  "title": "Fabaceae Ectopic Cambia Dataset",
   "upload_type": "dataset",
-  "description": "A curated database for research on plant vascular variants, including anatomical and biodiversity data for educational and scientific purposes.",
+  "description": "A dataset documenting the occurrence and structural diversity of ectopic cambia in Fabaceae. This taxon-specific dataset is part of the Plant Vascular Variants Database.",
   "creators": [
     {
-      "name": "Cunha Neto, Israel L."
+      "name": "Saddoy, John K. C.",
+      "affiliation": "University of the Philippines Los Baños",
+      "orcid": "https://orcid.org/0000-0000-0000-0000"
+    },
+    {
+      "name": "Cunha Neto, Israel L.",
+      "affiliation": "Florida International University",
+      "orcid": "https://orcid.org/0000-0002-0914-9974"
     }
   ],
   "version": "1.0.0",
@@ -17,7 +24,7 @@
   ],
   "license": "CC-BY-4.0",
   "access_right": "open",
-  "publication_date": "2026-02-19",
+  "publication_date": "2026-03-17",
   "communities": [
     {
       "identifier": "botany"
@@ -26,7 +33,7 @@
   "related_identifiers": [
     {
       "relation": "isSupplementTo",
-      "identifier": "https://github.com/ilcneto/plant-vascular-variants-database",
+      "identifier": "https://github.com/ilcneto/fabaceae-ectopic-cambia-dataset",
       "scheme": "url"
     }
   ]
