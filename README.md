@@ -15,18 +15,16 @@ See preprint here: [include citation and DOI]
 	Indicate the species name (following POWO 2026).
 - ### Phylogeny
 	Indicate if the species is included in the Azani et al. (2017) with "Yes" or "No". 
-- ### EC pattern
-	Score the tctopic cambia pattern with two alternatives: neoformations or successive cambia. 
+- ### Morphotype
+	Score the ectopic cambia pattern with two alternatives: neoformations or successive cambia. 
 - ### Habit
 	Indicate the plant habit (following POWO 2026).
 - ### Conformation
 	Indicate the organization of ectopic cambia in cross sections. "Successive cambia" may be continuous (complete rings) or discontinuous (incomplete rings); species with "neoformations" are categorized on whether the new cambia arise within the xylem ("Intraxylary") or in the periphery of the organ originating from the phloem, pericycle, or cortex, here broadly indicated as "Extraxylary".
-- ### Biogeographical distribution
+- ### Biogeography
 	Categorization of floral biogeographic distribution based on Liu et al. (2023).
-- ### Plant organ
-	Observation of ectopic cambia in stems, roots, or both. 
-- ### References
-	Indicate the source for the images and descriptions for ectopic cambia. 
+- ### Organ
+	Observation of ectopic cambia in stems, roots, or both.  
 
 ## Taxonomic coverage
 
