@@ -80,11 +80,11 @@ table <- bind_rows(
   organ_counts
 )
 
-cat("\nCOLLATED OUTPUT (first rows)\n")
+cat("\nTABLE OUTPUT (first rows)\n")
 print(head(table, 12))
 
 # Save CSV
-output_path <- file.path("summary", "taxonomic_coverage.csv")
+output_path <- file.path("summary", "summary_information.csv")
 
 write_csv(table, output_path)
 cat("\nAll results saved to:", output_path, "\n")
