@@ -20,13 +20,19 @@ See preprint here: [include citation and DOI]
 - ### Habit
 	Indicate the plant habit (following POWO 2026).
 - ### Conformation
-	Indicate the organization of ectopic cambia in cross sections. "Successive cambia" may be continuous (complete rings) or discontinuous (incomplete rings); species with "neoformations" are categorized on whether the new cambia arise within the xylem ("Intraxylary") or in the periphery of the organ originating from the phloem, pericycle or cortex, here broadly indicated as "Extraxylary".
+	Indicate the organization of ectopic cambia in cross sections. "Successive cambia" may be continuous (complete rings) or discontinuous (incomplete rings); species with "neoformations" are categorized on whether the new cambia arise within the xylem ("Intraxylary") or in the periphery of the organ originating from the phloem, pericycle, or cortex, here broadly indicated as "Extraxylary".
 - ### Biogeographical distribution
 	Categorization of floral biogeographic distribution based on Liu et al. (2023).
 - ### Plant organ
 	Observation of ectopic cambia in stems, roots, or both. 
 - ### References
 	Indicate the source for the images and descriptions for ectopic cambia. 
+
+### Taxonomic coverage
+
+Summary tables and figures for this dataset are provided in the summary/ directory and are generated from the data using scripts available in the scripts/ directory. 
+
+![Taxonomic coverage](summary/taxonomic_coverage_Fabaceae.png)
 
 ## How to cite 
 If using this dataset, please cite:
