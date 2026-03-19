@@ -35,7 +35,7 @@ Summary tables and figures for this dataset are provided in the summary/ directo
 ## How to cite 
 If using this dataset, please cite:
 - The associated publication (see above).    
-- Saddoy and Cunha-Neto. 2026. Fabaceae Ectopic Cambia Dataset (v 1.0.0) [Data set]. Zenodo. DOI: xxxxx
+- Saddoy and Cunha-Neto. 2026. Fabaceae Ectopic Cambia Dataset (v. 1.0.0) [Data set]. Zenodo. DOI: https://doi.org/10.5281/zenodo.19103807
 
 When using the concept, terminology, or definition of vascular variants, please cite:   
 - Cunha-Neto I.L. 2023. Vascular variants in seed plants - a developmental approach. AoB PLANTS, 15(4): 1-15.
