@@ -28,7 +28,7 @@ See preprint here: [include citation and DOI]
 
 ## Taxonomic coverage
 
-Summary tables and figures for this dataset are provided in the summary/ directory and are generated from the data using scripts available in the scripts/ directory. _Astragalus_ and _Glycine_ have induced ectopic cambia (and not constitutive) but they were still included in the taxonomic coverage.
+Summary tables and figures for this dataset are provided in the summary/ directory and are generated from the data using scripts available in the scripts/ directory.
 
 ![Taxonomic coverage](summary/taxonomic_coverage_Fabaceae.png)
 
