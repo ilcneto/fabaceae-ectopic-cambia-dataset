@@ -1,0 +1,13 @@
+Field,Level,Value
+Genus,NA,27
+Species,NA,105
+Biogeography,Unique list (alphabetical),"Afrotropical, Australian, Holarctic, Indo-Malesian, Neotropical, Palaeotropical"
+Morphotype,Successive cambia,78
+Morphotype,Neoformations,31
+Habit,Liana,87
+Habit,Shrub,17
+Habit,Tree,4
+Habit,Vine,1
+Organ,Stem,86
+Organ,Root,18
+Organ,Both,5
