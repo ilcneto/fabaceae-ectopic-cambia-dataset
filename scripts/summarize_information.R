@@ -28,7 +28,6 @@ biogeo_list <- taxa %>%
 
 # Totals (Genus, Species, Biogeography list)
 totals_long <- tibble(
-  Section = "Totals",
   Field   = c("Genus", "Species", "Biogeography"),
   Level   = c(NA, NA, "Unique list (alphabetical)"),
   Value   = c(
@@ -44,7 +43,6 @@ morphotype_counts <- taxa %>%
   count(Morphotype, name = "Count") %>%
   arrange(desc(Count), Morphotype) %>%
   transmute(
-    Section = "Counts",
     Field   = "Morphotype",
     Level   = Morphotype,
     Value   = as.character(Count)
@@ -55,7 +53,6 @@ habit_counts <- taxa %>%
   count(Habit, name = "Count") %>%
   arrange(desc(Count), Habit) %>%
   transmute(
-    Section = "Counts",
     Field   = "Habit",
     Level   = Habit,
     Value   = as.character(Count)
@@ -66,7 +63,6 @@ organ_counts <- taxa %>%
   count(Organ, name = "Count") %>%
   arrange(desc(Count), Organ) %>%
   transmute(
-    Section = "Counts",
     Field   = "Organ",
     Level   = Organ,
     Value   = as.character(Count)
