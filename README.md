@@ -3,7 +3,7 @@
 This dataset expands upon the Plant Vascular Variants Database (PVVD) by providing species-level coding for the occurrence and structural variation of ectopic cambia within Fabaceae.
 
 ## Associated Publication
-See preprint here: [include citation and DOI] 
+See preprint here: https://doi.org/10.64898/2026.03.20.713002
 
 ## Dataset structure
 
