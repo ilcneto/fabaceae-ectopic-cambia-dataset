@@ -3,7 +3,7 @@
 This dataset expands upon the Plant Vascular Variants Database (https://github.com/ilcneto/plant-vascular-variants-database) by providing species-level coding for the occurrence and structural variation of ectopic cambia within Fabaceae.
 
 ## Associated Publication
-See preprint here: https://doi.org/10.64898/2026.03.20.713002
+Saddoy JKC, Cunha-Neto IL.  2026. Vascular Diversity in Leguminosae: Evolutionary and Ecological Insights From a Globally Distributed Lineage. Biotropica 58: e70248. https://onlinelibrary.wiley.com/doi/10.1111/btp.70248
 
 ## Dataset structure
 
